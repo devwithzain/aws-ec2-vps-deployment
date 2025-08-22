@@ -105,7 +105,7 @@ new class extends Component {
       <!-- Header -->
       <div class="p-6 border-b">
          <div class="flex justify-between items-center">
-            <h1 class="text-2xl font-bold text-gray-900">Products</h1>
+            <h1 class="text-2xl font-bold text-gray-900">All Products</h1>
             <button wire:click="create" class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600">
                Add Product
             </button>
